@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Macondo&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=PT+Serif&family=Slabo+27px&display=swap');
+.right h1 {
+    font-family: 'Kanit', sans-serif;
+}
+.text-input {
+    box-shadow: inset 0px 0px 3px 0px #000000 ;
+}
+.button-shadow {
+    box-shadow: 1px 1px 3px 1px #6f6e83 ;
+}
+.heading {
+    font-family: 'Kanit', sans-serif;
+}
+.right {
+    background: linear-gradient(45deg, #afc8e3, #6e608f);  
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
